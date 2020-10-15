@@ -1,8 +1,6 @@
 ### Aox.CL
 
-- About me
-
-- <a href="https://twitter.com/xuandian">
+- About me <a href="https://twitter.com/xuandian">
   <img align="left" alt="Aox.CL | Twitter" width="21px"   src="https://raw.githubusercontent.com/aptx5788/aptx5788/152a87a6983034283e240385d3ff845f3046a7b9/assets/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/aox.cl/">
