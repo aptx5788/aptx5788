@@ -2,4 +2,4 @@
 
 ### Hello
 
-- :bowtie: About me
+- About me
