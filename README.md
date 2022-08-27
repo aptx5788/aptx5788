@@ -9,6 +9,9 @@
   <a target=_blank href="https://atombox.xyz">
     <img align="left" alt="Aox.CL | AtomBox" width="20px" src="https://raw.githubusercontent.com/aptx5788/aptx5788/5235510b3453332f45117670af17bd8ad32fb2f1/assets/atombox.svg" />
   </a>
+  <a target=_blank href="https://weibo.com/atomhachiko">
+    <img align="left" alt="Aox.CL | Aox.CL" width="20px" src="https://raw.githubusercontent.com/aptx5788/aptx5788/5235510b3453332f45117670af17bd8ad32fb2f1/assets/weibo.svg" />
+  </a>
 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aptx5788&show_icons=true&include_all_commits=true&theme=prussian&hide=stars,contribs&hide_title=true&count_private=true" alt="aptx5788's github stats" />
 
