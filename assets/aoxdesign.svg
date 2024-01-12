@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" stroke="#FFFFFF" stroke-width="7">
+            <circle id="Oval" fill="#22381B" cx="60" cy="60" r="56.5"></circle>
+            <path d="M55.4413484,65.2545352 C62.4416596,65.2545352 71.9282431,58.9367479 83.9010989,46.3011732 C71.9282431,33.5863786 62.4416596,27.2289813 55.4413484,27.2289813 C44.9408816,27.2289813 36.4285714,35.7412915 36.4285714,46.2417582 C36.4285714,56.742225 44.9408816,65.2545352 55.4413484,65.2545352 Z" id="Oval" transform="translate(60.1648, 46.2418) scale(1, -1) rotate(-90) translate(-60.1648, -46.2418)"></path>
+            <line x1="59" y1="71.5054945" x2="28.5" y2="103.5" id="Line-4" stroke-linecap="round"></line>
+            <line x1="92.6263736" y1="69.5164835" x2="60.1373626" y2="102.5" id="Line-4" stroke-linecap="round" transform="translate(76.3187, 85.8571) scale(-1, 1) translate(-76.3187, -85.8571)"></line>
+            <line x1="52.4505495" y1="95.5604396" x2="67.5" y2="95.5" id="Line-5" stroke-linecap="round"></line>
+        </g>
+    </g>
+</svg>
