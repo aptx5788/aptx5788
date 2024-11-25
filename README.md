@@ -1,4 +1,4 @@
-### Hi, I'm Aox.CL, a developer.
+### Hi, I'm Aox.CL, being a Person.
 
 - <a target=_blank href="https://aox.design">
     <img align="left" alt="Aox.CL | Aox.design" width="19px" src="https://raw.githubusercontent.com/aptx5788/aptx5788/main/assets/aoxdesign.svg" />
