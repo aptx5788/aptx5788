@@ -9,7 +9,5 @@
   <a target=_blank href="https://weibo.com/atomhachiko">
     <img align="left" alt="Aox.CL | Aox.CL" width="24px" src="https://github.com/aptx5788/aptx5788/blob/main/assets/weibo.svg" />
   </a>
-  
-##### Swift is a piece of shit for now..💩💩
  
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aptx5788&show_icons=true&include_all_commits=true&theme=prussian&hide=stars,contribs&hide_title=true&count_private=true" alt="aptx5788's github stats" />
